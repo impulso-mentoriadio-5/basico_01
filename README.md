@@ -4,3 +4,7 @@
 
 - **Escrever em negrito**
 - _Usar Itálico_
+
+## Sugestão de extenções
+
+- REST Client
